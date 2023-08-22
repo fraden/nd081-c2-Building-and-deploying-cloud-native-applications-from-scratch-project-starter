@@ -4,7 +4,7 @@
         "type": "eventGridTrigger",
         "name": "event",
         "direction": "in",
-        "eventHubName": "eventhub2",
-        "connection": "Endpoint=sb://c2udaeventhub.servicebus.windows.net/;SharedAccessKeyName=one;SharedAccessKey=Z9jzNeFqwIDSw706dEJJdjTcIUcxx2dYU+AEhMNdFjY=;EntityPath=eventhub2"
+        "eventHubName": "c2udaeventhub",
+        "connection": "Endpoint=sb://c2udaeventhub.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=w1V9CXZCJ1nBaLK5wELszhhfjrWxQNVUm+AEhCjVNKQ="
     }]
 }
